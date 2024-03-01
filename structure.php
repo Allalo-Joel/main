@@ -1,0 +1,25 @@
+- app/
+- bootstrap/
+- config/
+- database/
+- public/
+    - css/
+    - js/
+    - images/
+- resources/
+    - views/
+        -frontend
+            - layouts/
+                - app.blade.php (la mise en page principale)
+            - includes/
+                - header.blade.php
+                - footer.blade.php
+                - navigation.blade.php
+            - home.blade.php
+            - about.blade.php
+            - services.blade.php
+            - contact.blade.php
+- routes/
+- storage/
+- tests/
+- vendor/
