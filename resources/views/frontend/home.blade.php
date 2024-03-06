@@ -17,8 +17,8 @@
                     <div class="container">
                         <div class="carousel-caption relative">
                             <div class="bg_white">
-                                <h1>Bienvenue Chez <span class="yello">Web tic Côte d'Ivoire</span></h1>
-                                <p>Il est établi de longue date qu'un lecteur sera distrait par le contenu lisible d'une page lorsqu'il regardera sa mise en page. L'intérêt d'utiliser Lorem Ipsum est qu'il a une distribution plus ou moins normale des lettres.</p>
+                                <h1><span class="yell">Web tic Côte d'Ivoire</span></h1>
+                                <p>Entreprise de developpement de logiciel adapter à votre demande</p>
                             </div>
                             <a class="read_more ban_btn" href="Javascript:void(0)">Lire la suite</a>
                         </div>
@@ -28,14 +28,14 @@
                     <div class="container">
                         <div class="carousel-caption relative">
                             <div class="bg_white">
-                                <h1>Bienvenue dans notre <span class="yello">Design d'Intérieur</span></h1>
-                                <p>Il est établi de longue date qu'un lecteur sera distrait par le contenu lisible d'une page lorsqu'il regardera sa mise en page. L'intérêt d'utiliser Lorem Ipsum est qu'il a une distribution plus ou moins normale des lettres.</p>
+                                <h1> <span class="yell">Des partenaires freelances</span></h1>
+                                <p>Nos développeurs sont dotés d'experiance étrangères (Chine France Côte d'Ivoire) .</p>
                             </div>
                             <a class="read_more ban_btn" href="Javascript:void(0)">Lire la suite</a>
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item">
+                <!-- <div class="carousel-item">
                     <div class="container">
                         <div class="carousel-caption relative">
                             <div class="bg_white">
@@ -45,7 +45,7 @@
                             <a class="read_more ban_btn" href="Javascript:void(0)">Lire la suite</a>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
             <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -66,7 +66,7 @@
                 <div class="col-sm-12">
                     <div class="titlepage">
                         <h2>À propos de nous</h2>
-                        <p>Il est établi de longue date qu'un lecteur sera distrait par le contenu lisible d'une page lorsqu'il regardera sa mise en page.</p>
+                        <p>Web Tic Côte d'Ivoire c'est l'association de plusieurs developpeurs freelances pour la mise en place de service de qualité </p>
                     </div>
                 </div>
                 <div class=" col-sm-12">
