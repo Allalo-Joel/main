@@ -17,7 +17,7 @@
                     <div class="container">
                         <div class="carousel-caption relative">
                             <div class="bg_white">
-                                <h1>Bienvenue dans notre <span class="yello">Design d'Intérieur</span></h1>
+                                <h1>Bienvenue Chez <span class="yello">Web tic Côte d'Ivoire</span></h1>
                                 <p>Il est établi de longue date qu'un lecteur sera distrait par le contenu lisible d'une page lorsqu'il regardera sa mise en page. L'intérêt d'utiliser Lorem Ipsum est qu'il a une distribution plus ou moins normale des lettres.</p>
                             </div>
                             <a class="read_more ban_btn" href="Javascript:void(0)">Lire la suite</a>
